@@ -1,0 +1,28 @@
+1. console.log("Masai School");
+console.log("A Transformation in Education")
+2.function multiplyBy50(number) {
+    // Write code here
+    console.log(number*50);
+    
+}
+3.function productOfSix(one, two, three, four, five, six) {
+    // Write code here
+    console.log(one*two*three*four*five*six);
+}
+4.function sumOfFive(one, two, three, four, five) {
+    // Write code here
+    console.log(one+two+three+four+five);
+}
+
+5.function cubeOfNumber(N) {
+    // Write code here
+    console.log(N*N*N)
+}
+6.function squareAndSum(one, two, three) {
+  // Write code here
+  console.log((one*one)+(two*two)+(three*three));
+}
+7.function findX(X) {
+    // Write code here
+    console.log((X*3)+10);
+    }
