@@ -1,0 +1,41 @@
+1.//Print "Masai School" in the console followed by "A Transformation in Education" in next
+console.log ("Masai school","A Transformation in Education");
+2.
+//Define a variable called name with your Name as the assigned value
+//Print the value stored in the variable name
+//Change the variable to store your father's name
+//Print the value stored in the variable name
+//Change the variable again to store your mother's name.
+//Print the value stored in the variable name
+let name="pavani";
+console.log(name);
+
+let father_name="Ramakrishna";
+console.log(father_name);
+
+let mother_name="Lakshmamma";
+console.log(mother_name)
+3.//Create a variable name to store your name
+//Create a variable age to store your age
+//Print the values stored in the variable on one line followed by the type of the variable in the next line
+let name="pavani";
+let age=20;
+console.log(name,age);
+console.log(typeof(name));
+console.log(typeof(age));
+4.
+//Store the name, school, grade, section, rollno and the marks scored by the student in 3 subjects
+//Print the report card of the student (You can make it look nice by using some keyboard symbols )
+//Explore ASCII ART (https://en.wikipedia.org/wiki/ASCII_art (Links to an external site.)) or Text Art (https://fsymbols.com/text-art/ (Links to an external site.)) for some inspiration
+console.log("🅟🅡🅞🅖🅡🅔🅢🅢 🅒🅐🅡🅓")
+let name="pavani";
+let school="palamaner highschool";
+let grade="A";
+let section="1st section";
+let roleno=10;
+let marks=[
+  telugu=80,
+  english=75,
+  hindi=60
+];
+console.log(name,school,grade,section,roleno,marks);
